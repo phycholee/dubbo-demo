@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>2.0.8.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <springboot.dubbo.version>0.2.0</springboot.dubbo.version>
     </properties>
 
